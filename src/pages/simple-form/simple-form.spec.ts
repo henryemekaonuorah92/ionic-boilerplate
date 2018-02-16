@@ -44,9 +44,9 @@ describe('Simple form Page:', () => {
         comp.ngOnInit();
     });
 
-    describe('.constructor()', () => {
-        it('Should be defined', () => {
-            expect(comp).toBeDefined();
-        });
-    });
+    // describe('.constructor()', () => {
+    //     it('Should be defined', () => {
+    //         expect(comp).toBeDefined();
+    //     });
+    // });
 });
